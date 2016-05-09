@@ -1,6 +1,6 @@
 {
   "name": "angular-modal-service",
-  "version": "0.6.10",
+  "version": "0.8.10",
   "authors": [
     "Dave Kerr (github.com/dwmkerr)"
   ],
@@ -28,7 +28,7 @@
     "*.yml"
   ],
   "dependencies": {
-    "angular": "^1.4.x"
+    "angular": "~1.5.x"
   },
   "devDependencies": {
     "angular-mocks": "^1.4.x",
